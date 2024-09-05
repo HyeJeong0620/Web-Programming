@@ -1,0 +1,58 @@
+void setup() {
+  Serial.begin(115200);
+}
+void loop() {
+  Serial.println("나는 ESP32이다");
+   delay(1000);
+}
+//////////////////////
+void setup() {
+  Serial.begin(115200);
+}
+void loop() {
+  float temp = random(1000,5000)/100.0;
+  float humi = random(1000,5000)/100.0;
+  String data1 = String(temp) + "," + String(humi);
+  Serial.println(data1);
+  delay(1000);
+}
+///////////////////////
+void setup() {
+  Serial.begin(115200);
+}
+void loop() {
+  if(Serial.available()){
+    char c= Serial.read();
+    if(c == '0'){
+      Serial.println("안녕하세요!");
+    }else if(c == '1'){
+      Serial.println("반갑습니다!");
+    }
+  }
+}
+/////////////////////////
+void setup() {
+  Serial.begin(115200);
+  pinMode(16,OUTPUT);  //
+}
+void loop() {
+  if(Serial.available()){
+    char c= Serial.read();
+    if(c == '0'){
+      digitalWrite(16,LOW);  //
+      Serial.println("안녕하세요!");
+    }else if(c == '1'){
+      digitalWrite(16,HIGH);  //
+      Serial.println("반갑습니다!");
+    }
+  }
+}
+//////////////
+void setup() {
+  Serial.begin(115200);
+}
+void loop() {
+  int sensor = analogRead(36);
+  Serial.println(sensor);
+  delay(100);
+}

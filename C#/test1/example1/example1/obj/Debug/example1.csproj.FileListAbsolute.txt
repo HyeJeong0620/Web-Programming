@@ -1,0 +1,8 @@
+C:\Users\user\Documents\웹프로그래밍실무\C#\example1\example1\bin\Debug\example1.exe.config
+C:\Users\user\Documents\웹프로그래밍실무\C#\example1\example1\bin\Debug\example1.exe
+C:\Users\user\Documents\웹프로그래밍실무\C#\example1\example1\bin\Debug\example1.pdb
+C:\Users\user\Documents\웹프로그래밍실무\C#\example1\example1\obj\Debug\example1.csproj.AssemblyReference.cache
+C:\Users\user\Documents\웹프로그래밍실무\C#\example1\example1\obj\Debug\example1.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Documents\웹프로그래밍실무\C#\example1\example1\obj\Debug\example1.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\웹프로그래밍실무\C#\example1\example1\obj\Debug\example1.exe
+C:\Users\user\Documents\웹프로그래밍실무\C#\example1\example1\obj\Debug\example1.pdb

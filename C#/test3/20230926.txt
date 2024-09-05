@@ -1,0 +1,37 @@
+//ESP32버전
+void setup() {
+  Serial.begin(115200);
+  ledcSetup(0,5000,8);
+  ledcAttachPin(25,0);
+}
+
+void loop() {
+  if(Serial.available()){
+    String data = Serial.readStringUntil('\r');
+    ledcWriteTone(0,data.toInt());
+  }
+}
+//아두이노 버전(부저를 8번핀에 연결한 상황)
+void setup(){
+  Serial.begin(115200);
+}
+void loop() {
+  if(Serial.available()){
+    String data = Serial.readStringUntil('\r');
+    tone(8,data.toInt());
+  }
+}
+//피치
+#define NOTE_C4  262  //도
+#define NOTE_CS4 277
+#define NOTE_D4  294  //레
+#define NOTE_DS4 311
+#define NOTE_E4  330  //미
+#define NOTE_F4  349  //파
+#define NOTE_FS4 370
+#define NOTE_G4  392  //솔
+#define NOTE_GS4 415
+#define NOTE_A4  440  //라
+#define NOTE_AS4 466
+#define NOTE_B4  494  //시
+#define NOTE_C5  523  //도

@@ -1,0 +1,41 @@
+//네임스페이스추가(설치해야함)
+using uPLibrary.Networking.M2Mqtt;
+using uPLibrary.Networking.M2Mqtt.Messages;
+
+//전역으로 클래스선언
+MqttClient client;
+string clientId;
+
+//MQTT 브로커와 연결하는 부분
+string BrokerAddress = "broker.mqtt-dashboard.com";            
+client = new MqttClient(BrokerAddress);
+
+// register a callback-function (we have to implement, see below) which is called by the library when a message was received
+client.MqttMsgPublishReceived += client_MqttMsgPublishReceived;
+
+ // use a unique id as client id, each time we start the application
+clientId = Guid.NewGuid().ToString();
+client.Connect(clientId);
+
+//MQTT이벤트 핸들러
+void client_MqttMsgPublishReceived(object sender, MqttMsgPublishEventArgs e)
+        {
+            string ReceivedMessage = Encoding.UTF8.GetString(e.Message);
+            
+            //DO SOMETHING..!
+        }
+
+//Subscribe Topic 추가
+client.Subscribe(new string[] { Topic }, new byte[] { 0 });   // we need arrays as parameters because we can subscribe to different topics with one call
+
+//지정Topic으로 Publish
+client.Publish(Topic, Encoding.UTF8.GetBytes("0"), 0, true);
+
+//MQTT 연결 종료
+client.Disconnect();
+
+//크로스 쓰레드 문제를 해결하기 위한 해법
+this.Invoke(new MethodInvoker(delegate ()
+            {
+                //DO SOMETHING..!
+            }));

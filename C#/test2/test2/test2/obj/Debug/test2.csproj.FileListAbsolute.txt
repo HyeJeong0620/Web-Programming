@@ -1,0 +1,13 @@
+C:\Users\user\Documents\웹프로그래밍실무\C#\test2\test2\test2\bin\Debug\test2.exe.config
+C:\Users\user\Documents\웹프로그래밍실무\C#\test2\test2\test2\bin\Debug\test2.exe
+C:\Users\user\Documents\웹프로그래밍실무\C#\test2\test2\test2\bin\Debug\test2.pdb
+C:\Users\user\Documents\웹프로그래밍실무\C#\test2\test2\test2\obj\Debug\test2.csproj.AssemblyReference.cache
+C:\Users\user\Documents\웹프로그래밍실무\C#\test2\test2\test2\obj\Debug\test2.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Documents\웹프로그래밍실무\C#\test2\test2\test2\obj\Debug\test2.Form1.resources
+C:\Users\user\Documents\웹프로그래밍실무\C#\test2\test2\test2\obj\Debug\test2.Properties.Resources.resources
+C:\Users\user\Documents\웹프로그래밍실무\C#\test2\test2\test2\obj\Debug\test2.csproj.GenerateResource.cache
+C:\Users\user\Documents\웹프로그래밍실무\C#\test2\test2\test2\obj\Debug\test2.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\웹프로그래밍실무\C#\test2\test2\test2\obj\Debug\test2.exe
+C:\Users\user\Documents\웹프로그래밍실무\C#\test2\test2\test2\obj\Debug\test2.pdb
+C:\Users\user\Documents\웹프로그래밍실무\C#\test2\test2\test2\bin\Debug\AGauge.dll
+C:\Users\user\Documents\웹프로그래밍실무\C#\test2\test2\test2\obj\Debug\test2.csproj.CopyComplete

@@ -1,0 +1,11 @@
+C:\Users\user\Documents\웹프로그래밍실무\C#\0822\example2\example2\bin\Debug\example2.exe.config
+C:\Users\user\Documents\웹프로그래밍실무\C#\0822\example2\example2\bin\Debug\example2.exe
+C:\Users\user\Documents\웹프로그래밍실무\C#\0822\example2\example2\bin\Debug\example2.pdb
+C:\Users\user\Documents\웹프로그래밍실무\C#\0822\example2\example2\obj\Debug\example2.csproj.AssemblyReference.cache
+C:\Users\user\Documents\웹프로그래밍실무\C#\0822\example2\example2\obj\Debug\example2.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Documents\웹프로그래밍실무\C#\0822\example2\example2\obj\Debug\example2.Properties.Resources.resources
+C:\Users\user\Documents\웹프로그래밍실무\C#\0822\example2\example2\obj\Debug\example2.csproj.GenerateResource.cache
+C:\Users\user\Documents\웹프로그래밍실무\C#\0822\example2\example2\obj\Debug\example2.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\웹프로그래밍실무\C#\0822\example2\example2\obj\Debug\example2.exe
+C:\Users\user\Documents\웹프로그래밍실무\C#\0822\example2\example2\obj\Debug\example2.pdb
+C:\Users\user\Documents\웹프로그래밍실무\C#\0822\example2\example2\obj\Debug\example2.Form1.resources

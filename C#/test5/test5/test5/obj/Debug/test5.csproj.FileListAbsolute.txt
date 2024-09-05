@@ -1,0 +1,11 @@
+C:\Users\user\Documents\웹프로그래밍실무\C#\test5\test5\test5\bin\Debug\test5.exe.config
+C:\Users\user\Documents\웹프로그래밍실무\C#\test5\test5\test5\bin\Debug\test5.exe
+C:\Users\user\Documents\웹프로그래밍실무\C#\test5\test5\test5\bin\Debug\test5.pdb
+C:\Users\user\Documents\웹프로그래밍실무\C#\test5\test5\test5\obj\Debug\test5.csproj.AssemblyReference.cache
+C:\Users\user\Documents\웹프로그래밍실무\C#\test5\test5\test5\obj\Debug\test5.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Documents\웹프로그래밍실무\C#\test5\test5\test5\obj\Debug\test5.Form1.resources
+C:\Users\user\Documents\웹프로그래밍실무\C#\test5\test5\test5\obj\Debug\test5.Properties.Resources.resources
+C:\Users\user\Documents\웹프로그래밍실무\C#\test5\test5\test5\obj\Debug\test5.csproj.GenerateResource.cache
+C:\Users\user\Documents\웹프로그래밍실무\C#\test5\test5\test5\obj\Debug\test5.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\웹프로그래밍실무\C#\test5\test5\test5\obj\Debug\test5.exe
+C:\Users\user\Documents\웹프로그래밍실무\C#\test5\test5\test5\obj\Debug\test5.pdb

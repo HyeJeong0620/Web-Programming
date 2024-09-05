@@ -1,0 +1,16 @@
+C:\Users\user\Documents\웹프로그래밍실무\C#\20231107\p20231107\p20231107\obj\Debug\p20231107.csproj.AssemblyReference.cache
+C:\Users\user\Documents\웹프로그래밍실무\C#\20231107\p20231107\p20231107\obj\Debug\p20231107.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Documents\웹프로그래밍실무\C#\20231107\p20231107\p20231107\obj\Debug\p20231107.Form1.resources
+C:\Users\user\Documents\웹프로그래밍실무\C#\20231107\p20231107\p20231107\obj\Debug\p20231107.Properties.Resources.resources
+C:\Users\user\Documents\웹프로그래밍실무\C#\20231107\p20231107\p20231107\obj\Debug\p20231107.csproj.GenerateResource.cache
+C:\Users\user\Documents\웹프로그래밍실무\C#\20231107\p20231107\p20231107\obj\Debug\p20231107.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\웹프로그래밍실무\C#\20231107\p20231107\p20231107\bin\Debug\p20231107.exe.config
+C:\Users\user\Documents\웹프로그래밍실무\C#\20231107\p20231107\p20231107\bin\Debug\p20231107.exe
+C:\Users\user\Documents\웹프로그래밍실무\C#\20231107\p20231107\p20231107\bin\Debug\p20231107.pdb
+C:\Users\user\Documents\웹프로그래밍실무\C#\20231107\p20231107\p20231107\bin\Debug\M2Mqtt.Net.dll
+C:\Users\user\Documents\웹프로그래밍실무\C#\20231107\p20231107\p20231107\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\user\Documents\웹프로그래밍실무\C#\20231107\p20231107\p20231107\obj\Debug\p20231107.csproj.CopyComplete
+C:\Users\user\Documents\웹프로그래밍실무\C#\20231107\p20231107\p20231107\obj\Debug\p20231107.exe
+C:\Users\user\Documents\웹프로그래밍실무\C#\20231107\p20231107\p20231107\obj\Debug\p20231107.pdb
+C:\Users\user\Documents\웹프로그래밍실무\C#\20231107\p20231107\p20231107\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Documents\웹프로그래밍실무\C#\20231107\p20231107\p20231107\bin\Debug\Newtonsoft.Json.xml
